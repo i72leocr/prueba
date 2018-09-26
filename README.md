@@ -11,5 +11,7 @@
 > Esto es una cita
 * Lista 1
 * Lista 2
+1. hola
+2. adios
 
 `git init`
